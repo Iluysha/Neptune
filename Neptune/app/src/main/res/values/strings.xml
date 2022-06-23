@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Neptune</string>
+    <string name="switch_valve">Switch valve</string>
+    <string name="send_config">Set sensor configuration</string>
+</resources>

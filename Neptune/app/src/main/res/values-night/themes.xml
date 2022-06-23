@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Neptune" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/light_yellow</item>
+        <item name="colorOnPrimary">@color/facebook</item>
+        <item name="android:statusBarColor" >@color/dark_yellow</item>
+    </style>
+</resources>
