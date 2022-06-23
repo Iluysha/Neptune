@@ -1,6 +1,6 @@
 # Neptune project
 
 Authors:
-Vladyslav, Holets
-Bohdan, Vodianyk
+Vladyslav, Holets<br />
+Bohdan, Vodianyk<br />
 Illia, Mykhailichenko
